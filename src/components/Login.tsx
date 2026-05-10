@@ -5,7 +5,7 @@ import { useAuth } from "../context/AuthContext"
 import { useNavigate } from "react-router-dom"
 const Login = () => {
     const [state, setState] = useState("login")
-    const {user, login, signup} = useAuth()
+    const {user, login, signUp} = useAuth()
     const navigate = useNavigate()
 
     const [formData, setFormData] = useState({
@@ -24,7 +24,7 @@ const Login = () => {
         if(state === 'login'){
             login(formData)
         } else{
-            signup(formData)
+            signUp(formData)
         }
 
     }
