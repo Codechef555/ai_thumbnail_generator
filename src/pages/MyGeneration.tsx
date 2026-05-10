@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { dummyThumbnails, type IThumbnail } from "../assets/assets"
+import {  type IThumbnail } from "../assets/assets"
 import { SoftBackdrop } from "../components/SoftBackdrop"
 import { div } from "motion/react-client"
 import { Link, useNavigate } from "react-router-dom"
