@@ -18,12 +18,18 @@
 </p>
 
 <p align="center">
-
-![GitHub Stars](https://img.shields.io/github/stars/Codechef555/ai_thumbnail_generator?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/Codechef555/ai_thumbnail_generator?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/Codechef555/ai_thumbnail_generator?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/Codechef555/ai_thumbnail_generator?style=for-the-badge)
-
+  <a href="https://github.com/Codechef555/ai_thumbnail_generator/stargazers">
+    <img src="https://img.shields.io/github/stars/Codechef555/ai_thumbnail_generator?style=for-the-badge" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/Codechef555/ai_thumbnail_generator/network/members">
+    <img src="https://img.shields.io/github/forks/Codechef555/ai_thumbnail_generator?style=for-the-badge" alt="GitHub Forks" />
+  </a>
+  <a href="https://github.com/Codechef555/ai_thumbnail_generator/issues">
+    <img src="https://img.shields.io/github/issues/Codechef555/ai_thumbnail_generator?style=for-the-badge" alt="GitHub Issues" />
+  </a>
+  <a href="https://github.com/Codechef555/ai_thumbnail_generator/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Codechef555/ai_thumbnail_generator?style=for-the-badge" alt="GitHub License" />
+  </a>
 </p>
 
 ## ✨ Features
